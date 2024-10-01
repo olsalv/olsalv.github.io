@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olsalv.github.io/VeS/sitemap.VeS.gz
